@@ -6,7 +6,7 @@ setup(
     packages=['tjrj',],
     include_package_data = True,
     license='GPLv2',
-    long_description=open('README').read(),
+    long_description=open('README.md').read(),
 
     entry_points = {
         'console_scripts': [
